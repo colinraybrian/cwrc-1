@@ -28,7 +28,7 @@
    <rdfs:label xml:lang="en">Cultural Formation</rdfs:label>
    <rdfs:label xml:lang="fr">Formation Culturelle</rdfs:label>
    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-   <skos:definition xml:lang="en"></skos:definition>
+   <skos:definition xml:lang="en">Information regarding the forces that shape a person's subjectivity, including the nexus of race/class/gender, plus vital influences like national, religious, and political affiliations.</skos:definition>
    <skos:definition xml:lang="fr"></skos:definition>
  </owl:Class>
 
